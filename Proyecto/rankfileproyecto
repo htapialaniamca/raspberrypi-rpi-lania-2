@@ -1,0 +1,8 @@
+rank 0=rpi-lania1.local slot=0
+rank 1=rpi-lania2.local slot=0
+rank 2=rpi-lania2.local slot=1
+rank 3=rpi-lania3.local slot=0
+rank 4=rpi-lania3.local slot=1
+rank 5=rpi-lania4.local slot=0
+rank 6=rpi-lania5.local slot=0
+rank 7=rpi-lania5.local slot=1

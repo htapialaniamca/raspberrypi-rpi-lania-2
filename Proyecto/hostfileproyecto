@@ -1,0 +1,5 @@
+rpi-lania1.local slots=1
+rpi-lania2.local slots=2
+rpi-lania3.local slots=2
+rpi-lania4.local slots=1
+rpi-lania5.local slots=2
